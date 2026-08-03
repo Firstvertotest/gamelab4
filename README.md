@@ -1,14 +1,19 @@
 # 2D Platformer Starter Kit
 
-This starter kit provides all the essential mechanics needed to build a complete 2D platformer game in Godot 4.7. It is designed as a hands-on learning resource for students taking the **Computer Game Development** course at the **College of Computing, Khon Kaen University**.
+## 👤 Student Information
+* **Student ID:** [683380068-1]
+* **Name:** [Chayanon Prasertsri]
+* **Course:** Computer Game Development
+* **Institution:** College of Computing, Khon Kaen University
 
 ## Preview
 
 <img src="docs/qrcode.png" style="width:300px;" />
 
-- [Game Preview](https://computingkku.github.io/2D-Platformer-Starter-Kit/)
+* [Game Preview](https://firstvertotest.github.io/gamelab4/)
+* [video Preview](https://drive.google.com/file/d/1h3KSFhH5zAw8UYrw46IRLhWtHnAg_8-d/view?usp=sharing)
 
-
+s
 ## Features
 
 - **Game Menu** — A simple main menu scene (`Menu.tscn`) with Start and Exit options, so players can launch into the game or quit cleanly.
